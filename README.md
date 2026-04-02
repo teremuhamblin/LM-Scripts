@@ -1,3 +1,5 @@
+LM-Scripts
+
 🐧 LM‑Scripts — Scripts pour Linux Mint
 
 Scripts personnels et modulaires pour automatiser l’installation, la configuration, l’optimisation et la maintenance de Linux Mint.  
