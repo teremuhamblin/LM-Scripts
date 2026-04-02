@@ -3,8 +3,28 @@ LM-Scripts/README.md
 ---
 
 <p align="center">
-🐧 LM‑Scripts — "Scripts pour Linux Mint"
+🐧 "Scripts pour Linux Mint"
 </p>
+
+<p align="center">
+  <span style="font-size: 42px; font-weight: bold; text-decoration: underline;">
+    🐧 LM‑Scripts
+  </span>
+</p>
+
+<p align="center">
+  <span style="font-size: 20px; font-weight: bold;">
+    Scripts d'installation, de configuration et de maintenance pour Linux Mint
+  </span>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux%20Mint-Compatible-success?style=for-the-badge&logo=linuxmint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-Scripting-blue?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-MIT-green?style=for-the-badge" />
+</p>
+
+<hr/>
 
 - Scripts personnels et modulaires pour automatiser l’installation, la configuration, l’optimisation et la maintenance de Linux Mint.  
 - Ce projet est inspiré de l’organisation d’Erik Dubois, mais tout le contenu est réécrit, adapté et optimisé pour Linux Mint Edition.
