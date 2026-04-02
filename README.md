@@ -4,7 +4,7 @@ LM-Scripts/README.md
 ---
 
 <p align="center">
-  <img src="banner.png" alt="LM-Scripts Logo" width="200">
+  <img src="assets/banner.png" alt="LM-Scripts Logo" width="200">
 </p>
 
 <p align="center">
