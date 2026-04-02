@@ -3,14 +3,12 @@ LM-Scripts/README.md
 ---
 
 <p align="center">
-  <img src="YOUR_LOGO_FILE.png" alt="LM-Scripts Logo" width="180">
+  <img src="YOUR_CIRCULAR_LOGO.png" alt="LM-Scripts Logo" width="200">
 </p>
-
----
 
 <p align="center">
   <span style="font-size: 42px; font-weight: bold; text-decoration: underline;">
-    🐧 LM‑Scripts
+    🐧 LINUX MINT SCRIPTS
   </span>
 </p>
 
@@ -26,8 +24,6 @@ LM-Scripts/README.md
   <img src="https://img.shields.io/badge/Open%20Source-MIT-green?style=for-the-badge" />
 </p>
 
-<hr/>
-<hr/>
 <hr/>
 
 - Scripts personnels et modulaires pour automatiser l’installation, la configuration, l’optimisation et la maintenance de Linux Mint.  
