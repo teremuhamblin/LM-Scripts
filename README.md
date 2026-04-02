@@ -3,11 +3,13 @@ LM-Scripts/README.md
 ---
 
 <p align="center">
-🐧 "Scripts pour Linux Mint"
+  <span style="font-size: 32px; font-weight: bold; text-decoration: underline;">
+    🐧 "Scripts pour Linux Mint"
+  </span>
 </p>
 
 <p align="center">
-  <span style="font-size: 42px; font-weight: bold; text-decoration: underline;">
+  <span style="font-size: 72px; font-weight: bold; text-decoration: underline;">
     🐧 LM‑Scripts
   </span>
 </p>
