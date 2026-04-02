@@ -1,18 +1,85 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# ============================
+#  SCRIPTS LINUX MINT — GITIGNORE
+# ============================
 
-# Other files and folders
-.settings/
+# --- Fichiers système Linux ---
+.DS_Store
+Thumbs.db
+ehthumbs.db
+lost+found/
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# --- Fichiers temporaires ---
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.backup
+*.old
+*.orig
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# --- Logs ---
+*.log
+logs/
+log/
+
+# --- Caches ---
+.cache/
+*.cache
+
+# --- Archives ---
+*.tar
+*.tar.gz
+*.zip
+*.7z
+*.rar
+
+# --- Scripts compilés ou générés ---
+*.out
+*.o
+*.bin
+
+# --- Permissions / exécutions ---
+*.pid
+*.lock
+
+# --- Éditeurs ---
+# VSCode
+.vscode/
+.history/
+
+# Vim
+*.vim
+*.swp
+*.swo
+*.swn
+*.un~
+
+# Nano
+*.save
+
+# JetBrains (si jamais)
+.idea/
+*.iml
+
+# --- Python (si tu ajoutes des scripts Python plus tard) ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- ShellCheck / Lint ---
+.shellcheck/
+
+# --- Backups automatiques ---
+*~
+*#
+
+# --- Fichiers de test ---
+test-output/
+tests-output/
+
+# --- Secrets (si jamais tu en ajoutes, mais évite) ---
+.env
+*.env
+.env.*
+secrets/
