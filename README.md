@@ -23,39 +23,7 @@ Le tout en respectant les bonnes pratiques Bash et Linux.
 🏗️ Structure du dépôt
 
 `
-LM-Scripts/
-│
-├── install/
-│   ├── install_core.sh
-│   ├── install_drivers.sh
-│   ├── install_flatpak.sh
-│   └── install_devtools.sh
-│
-├── config/
-│   ├── config_cinnamon.sh
-│   ├── config_gnome.sh
-│   └── config_system.sh
-│
-├── maintenance/
-│   ├── update_system.sh
-│   ├── clean_system.sh
-│   └── backup_home.sh
-│
-├── utils/
-│   ├── check_internet.sh
-│   ├── system_info.sh
-│   └── benchmark.sh
-│
-├── themes/
-│   ├── install_themes.sh
-│   └── install_icons.sh
-│
-├── docs/
-│   ├── CHANGELOG.md
-│   ├── LICENSE
-│   └── CONTRIBUTING.md
-│
-└── main.sh
+LM-Scripts/ # dépôt principale 
 `
 
 Chaque dossier correspond à une catégorie de scripts, pour une organisation claire et évolutive.
