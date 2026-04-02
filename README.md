@@ -2,7 +2,9 @@ LM-Scripts/README.md
 
 ---
 
+<p align="center">
 🐧 LM‑Scripts — "Scripts pour Linux Mint"
+</p>
 
 - Scripts personnels et modulaires pour automatiser l’installation, la configuration, l’optimisation et la maintenance de Linux Mint.  
 - Ce projet est inspiré de l’organisation d’Erik Dubois, mais tout le contenu est réécrit, adapté et optimisé pour Linux Mint Edition.
