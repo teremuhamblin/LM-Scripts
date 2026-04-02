@@ -83,3 +83,8 @@ tests-output/
 *.env
 .env.*
 secrets/
+
+# assets/.gitignore
+*.xcf
+*.psd
+*.tmp
