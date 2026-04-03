@@ -49,9 +49,8 @@ LM-Scripts/README.md
 
 ### 🏗️ Structure du dépôt
 
-`
-LM-Scripts/ # dépôt principale 
-`
+- LM-Scripts/ # dépôt principale
+- CUSTOM/ # dossier de personnalisations 
 
 > Chaque dossier correspond à une catégorie de scripts, pour une organisation claire et évolutive.
 
