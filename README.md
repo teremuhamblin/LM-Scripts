@@ -1,14 +1,14 @@
-LM-Scripts/README.md
-<body style="background-color:#000000; color:#00FF00;">
-
 ---
 
+LM-Scripts/README.md
 <p align="center">
   <img src="assets/banner.png" alt="LM-Scripts Logo" width="200">
 </p>
 
+---
+
 <p align="center">
-  <span style="font-size: 42px; font-weight: bold; text-decoration: underline;">
+  <span style="font-size: 8px; font-weight: bold; text-decoration: underline;">
     🐧 LINUX MINT SCRIPTS
   </span>
 </p>
