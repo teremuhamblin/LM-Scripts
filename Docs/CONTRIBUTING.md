@@ -1,7 +1,4 @@
----
-
 📄 CONTRIBUTING.md
-(Version complète, professionnelle, adaptée à LM‑Scripts)
 
 `markdown
 
