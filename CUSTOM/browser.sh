@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 #
+# Auteur : The MadDoG.tmdg 
 # Script personnel avancé d'installation de logiciels
 # Multi-sélection, mode graphique, dry-run, configuration, auto-update
+# Version 1.0.0
 #
 
 set -euo pipefail
