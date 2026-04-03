@@ -4,7 +4,7 @@ set -euo pipefail
 ###############################################################
 #  LM‑Scripts — Launcher Premium
 #  Auteur : The MadDoG.tmdg 
-#  Version : 2.0.0
+#  Version : 1.0.0
 #  Description :
 #     Menu interactif avancé, moderne et dynamique
 #     pour exécuter tous les scripts LM‑Scripts.
