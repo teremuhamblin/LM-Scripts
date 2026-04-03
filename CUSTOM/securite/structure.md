@@ -2,9 +2,9 @@
 
 🧩 Structure LM‑Scripts du dossier :
 
-> CUSTOM
+> LM-Scripts/ CUSTOM
 
-```
+`
 securite/
 └── ufw/
         ├── manuel.md
@@ -21,4 +21,4 @@ securite/
             └── post_apply.d/
                 ├── 00-show-status.sh
                 └── 10-reload-services.sh
-                ```
+                `
