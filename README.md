@@ -1,6 +1,6 @@
----
-
 LM-Scripts/README.md
+
+---
 <p align="center">
   <img src="assets/banner.png" alt="LM-Scripts Logo" width="200">
 </p>
@@ -8,16 +8,16 @@ LM-Scripts/README.md
 ---
 
 <p align="center">
-  <span style="font-size: 8px; font-weight: bold; text-decoration: underline;">
-    🐧 LINUX MINT SCRIPTS
+  <span style="font-size: 42px; font-weight: bold; text-decoration: underline;">🐧 LINUX MINT SCRIPTS
   </span>
 </p>
 
 <p align="center">
-  <span style="font-size: 22px; font-weight: bold; color: #4CAF50;">
-    Automatiser. Optimiser. Simplifier Linux Mint.
+  <span style="font-size: 22px; font-weight: bold; color: #4CAF50;">Open-source Project's
+    
   </span>
 </p>
+<hr/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux%20Mint-Compatible-success?style=for-the-badge&logo=linuxmint&logoColor=white" />
@@ -27,14 +27,14 @@ LM-Scripts/README.md
 
 <hr/>
 
-- Scripts personnels et modulaires pour automatiser l’installation, la configuration, l’optimisation et la maintenance de Linux Mint.  
-- Ce projet est inspiré de l’organisation d’Erik Dubois, mais tout le contenu est réécrit, adapté et optimisé pour Linux Mint Edition.
+- #### Scripts personnels et modulaires pour automatiser l’installation, la configuration, l’optimisation et la maintenance de Linux Mint.  
+- #### Ce projet est inspiré de l’organisation d’Erik Dubois, mais tout le contenu est réécrit, adapté et optimisé pour Linux Mint Edition.
 
 ---
 
-🎯 Objectifs du projet
+### 🎯 Objectifs du projet
 
-LM‑Scripts vise à fournir :
+> LM‑Scripts vise à fournir :
 
 - des scripts simples, fiables et reproductibles  
 - une installation rapide des paquets essentiels  
@@ -47,19 +47,19 @@ LM‑Scripts vise à fournir :
 
 ---
 
-🏗️ Structure du dépôt
+### 🏗️ Structure du dépôt
 
 `
 LM-Scripts/ # dépôt principale 
 `
 
-Chaque dossier correspond à une catégorie de scripts, pour une organisation claire et évolutive.
+> Chaque dossier correspond à une catégorie de scripts, pour une organisation claire et évolutive.
 
 ---
 
-🚀 Fonctionnalités principales
+## 🚀 Fonctionnalités principales
 
-🔧 Installation
+### 🔧 Installation
 Scripts pour installer rapidement :
 
 - paquets essentiels  
@@ -67,7 +67,7 @@ Scripts pour installer rapidement :
 - Flatpak  
 - outils de développement  
 
-🎨 Configuration
+### 🎨 Configuration
 Scripts pour configurer :
 
 - Cinnamon  
@@ -75,14 +75,14 @@ Scripts pour configurer :
 - paramètres système  
 - apparence (thèmes, icônes)  
 
-🧹 Maintenance
+### 🧹 Maintenance
 Scripts pour :
 
 - mettre à jour le système  
 - nettoyer les fichiers inutiles  
 - sauvegarder le dossier utilisateur  
 
-🧰 Utilitaires
+### 🧰 Utilitaires
 Outils pratiques :
 
 - test de connexion  
@@ -91,7 +91,7 @@ Outils pratiques :
 
 ---
 
-🛠️ Utilisation
+## 🛠️ Utilisation
 
 1. Rendre les scripts exécutables
 `bash
@@ -111,7 +111,7 @@ chmod -R +x install/ config/ maintenance/ utils/ themes/
 
 ---
 
-🔒 Sécurité
+## 🔒 Sécurité
 
 Tous les scripts sont :
 
@@ -122,7 +122,7 @@ Tous les scripts sont :
 
 ---
 
-📄 Licence
+## 📄 Licence
 
 Ce projet est publié sous licence MIT, ce qui permet :
 
@@ -130,11 +130,11 @@ Ce projet est publié sous licence MIT, ce qui permet :
 - la modification  
 - la redistribution  
 
-Tu peux adapter la licence selon tes besoins.
+> Tu peux adapter la licence selon tes besoins.
 
 ---
 
-🤝 Contributions
+### 🤝 Contributions
 
 Les contributions sont les bienvenues !
 
@@ -146,7 +146,7 @@ Merci de :
 
 ---
 
-🗺️ Roadmap
+### 🗺️ Roadmap
 
 - Ajout d’un menu interactif dans main.sh  
 - Scripts d’optimisation avancée  
@@ -156,7 +156,7 @@ Merci de :
 
 ---
 
-🧑‍💻 Auteur
+### 🧑‍💻 Auteur
 
 > Projet maintenu par The MadDoG.tmdg passionné par Linux, l’automatisation et l’optimisation système.
 
