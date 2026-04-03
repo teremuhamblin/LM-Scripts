@@ -88,3 +88,16 @@ secrets/
 *.xcf
 *.psd
 *.tmp
+
+########################################
+# CUSTOM (scripts personnels non suivis)
+########################################
+
+# Ignore entièrement le dossier custom/
+custom/
+
+# Ignore tout le contenu du dossier, récursivement
+custom/*
+
+# Autorise uniquement le README explicatif (optionnel)
+!custom/README.md
