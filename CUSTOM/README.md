@@ -1,6 +1,6 @@
-# Dossier `custom/`
+# Dossier `CUSTOM/`
 
-Le dossier `custom/` est destiné à accueillir les scripts personnels de l’utilisateur.  
+Le dossier `CUSTOM/` est destiné à accueillir les scripts personnels de l’utilisateur.  
 Il permet d’étendre LM‑Scripts sans modifier les modules officiels du projet.
 
 Ce dossier est **totalement isolé** du cœur du framework :  
